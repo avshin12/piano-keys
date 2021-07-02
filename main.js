@@ -81,7 +81,7 @@ nextThree.onclick = function() {
   nextThree.hidden = true;
 
   document.getElementById('word-one').innerHTML = 'HAP-';
-  dodocument.getElementById('word-two').innerHTML = 'PY';
+  document.getElementById('word-two').innerHTML = 'PY';
   document.getElementById('word-three').innerHTML = 'BIRTH';
   document.getElementById('word-four').innerHTML = 'DAY';
   document.getElementById('word-five').innerHTML = 'TO';
