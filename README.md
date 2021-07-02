@@ -4,5 +4,5 @@ piano keys are interactive and user can follow along by playing the notes. get t
 
 challenges overcome:
 
-  - main.js created event-driven functions/event handlers and linked to index.html. script lines 10 - 119
+  - in main.js (lines lines 10 - 119), created event-driven functions/event handlers and linked to index.html. 
   - created server, added dependencies, initialized repository on github
